@@ -1,0 +1,202 @@
+Danh sách tên các luồng đang chạy:
+Thread-4657
+Thread-4658
+Thread-4655
+Thread-4656
+Thread-4647
+Thread-4649
+Thread-4650
+Thread-4648
+Thread-4643
+Thread-4644
+**Chat global
+Thread-251
+DestroyJavaVM
+Update boss
+Thread-20
+Thread-1
+Thread-0
+activeGame
+activeCommandLineThread
+Update map Khu vực luyện tập
+Update map Khu vực luyện tập
+Update map Khu vực luyện tập
+Update map Đền Hoàng Kim
+Update map Đền thượng
+Update map Vùng đất Thám Hiểm
+Update map Suối ma
+Update map Đồi Cát lún
+Update map Rừng Chết 1
+Update map Rừng Chết air
+Update map bắc ZUZU
+Update map Bóng Tối ZUZU
+Update map Đảo sea
+Update map Nam đảo rùa
+Update map Đảo rùa
+Update map map Moi
+Update map Hỗn Chiến 4
+Update map Hỗn Chiến 3
+Update map Trung Tâm
+Update map Hỗn Chiến 2
+Update map Hỗn Chiến 1
+Update map Làng Plant nguyên thủy
+Update map Rừng nguyên thủy
+Update map Bìa rừng nguyên thủy
+Update map Khu hang động
+Update map Đền băng Giá
+Update map Bắc thánh địa
+Update map Đông thánh địa
+Update map Tây thánh địa
+Update map Hành tinh ngục tù
+Update map Hành tinh Bill
+Update map Lãnh địa Bang Hội
+Update map Vùng đất băng giá
+Update map Hành tinh bóng tối
+Update map Thành phố Santa
+Update map Ngọn Đồi Hủy Diệt
+Update map Sa Mạc
+Update map Vùng Đất Hủy Diệt
+Update map Võ Đài Siêu Cấp
+Update map Hoang mạc
+Update map Con đường rắn độc
+Update map Con đường rắn độc
+Update map Con đường rắn độc
+Update map Hang động Potaufeu
+Update map Hành tinh Potaufeu
+Update map Cảng hải tặc
+Update map Động kho báu
+Update map Hang Bạch Tuộc
+Update map Động hải tặc
+Update map Hành Tinh Yardart 3
+Update map Hành Tinh Yardart 2
+Update map Hành Tinh Yardart
+Update map Đại hội võ thuật
+Update map Bụng Mabư
+Update map Cổng phi thuyền
+Update map Thành phố Santa
+Update map Ngũ hành sơn 2
+Update map Ngũ hành sơn 1
+Update map Ngũ hành sơn 3
+Update map Phòng chỉ huy
+Update map Cửa Ải 3
+Update map Cửa Ải 2
+Update map Cửa Ải 1
+Update map Phòng chờ
+Update map Cổng phi thuyền
+Update map Đại hội võ thuật
+Update map Võ đài Unknow
+Update map Đông Nam Karin
+Update map Hang băng
+Update map Rừng băng
+Update map Dòng sông băng
+Update map Núi tuyết
+Update map Rừng tuyết
+Update map Cánh đồng tuyết
+Update map Sân sau siêu thị
+Update map Võ đài Xên bọ hung
+Update map Nhà Bunma
+Update map Thị trấn Ginder
+Update map Thung lũng phía bắc
+Update map Ngọn núi phía bắc
+Update map Thành phố phía bắc
+Update map Cao nguyên
+Update map Đảo Balê
+Update map Thành phố phía nam
+Update map Thành phố phía đông
+Update map Hành Tinh 7 Sao Đen
+Update map Hành Tinh 6 Sao Đen
+Update map Hành Tinh 5 Sao Đen
+Update map Hành Tinh 4 Sao Đen
+Update map Hành Tinh 3 Sao Đen
+Update map Hành Tinh 2 Sao Đen
+Update map Hành Tinh 1 Sao Đen
+Update map Siêu Thị
+Update map Hang khỉ đen
+Update map Núi khỉ đen
+Update map Hang quỷ chim
+Update map Núi khỉ vàng
+Update map Núi khỉ đỏ
+Update map Rừng đá
+Update map Núi đá
+Update map Khe núi tử thần
+Update map Đồi cây Fide
+Update map Thung lũng chết
+Update map Thung lũng Raspberry
+Update map Căn cứ Raspberry
+Update map Núi Appule
+Update map Vực cấm
+Update map Thung lũng Nappa
+Update map Mê Cung Chết Chóc
+Update map Trại qủy già
+Update map Núi cây quỷ
+Update map Núi dây leo
+Update map Trại lính Fide
+Update map Trại độc nhãn 3
+Update map Trại độc nhãn 2
+Update map Trại độc nhãn 1
+Update map Tường thành 3
+Update map Tường thành 2
+Update map Tầng 4
+Update map Tầng 2
+Update map Tầng 1
+Update map Tầng 3
+Update map Tường thành 1
+Update map Đại hội võ thuật
+Update map Đấu trường
+Update map Thánh địa Kaio
+Update map Phòng tập thời gian
+Update map Hành tinh Kaio
+Update map Rừng Karin
+Update map Tháp Karin
+Update map Thần điện
+Update map Vách núi Kakarot
+Update map Vách núi Moori
+Update map Vách núi Aru
+Update map Vực Plant
+Update map Vách núi Moori
+Update map Vách núi Aru
+Update map Bờ vực đen
+Update map Thung lũng đen
+Update map Rừng đá
+Update map Rừng cọ
+Update map Đông Nam Guru
+Update map Nam Guru
+Update map Núi hoa tím
+Update map Núi hoa vàng
+Update map Đảo Bulông
+Update map Nam Kamê
+Update map Rừng dương xỉ
+Update map Rừng Bamboo
+Update map Trạm tàu vũ trụ
+Update map Trạm tàu vũ trụ
+Update map Trạm tàu vũ trụ
+Update map Nhà Broly
+Update map Nhà Moori
+Update map Nhà Gôhan
+Update map Vách núi đen
+Update map Thành phố Vegeta
+Update map Rừng thông Xayda
+Update map Rừng nguyên sinh
+Update map Làng Plant
+Update map Đồi hoang
+Update map Làng Kakarot
+Update map Đảo Guru
+Update map Vực maima
+Update map Thung lũng Maima
+Update map Thung lũng Namếc
+Update map Thị trấn Moori
+Update map Đồi nấm tím
+Update map Làng Mori
+Update map Đông Karin
+Update map Đảo Kamê
+Update map Rừng xương
+Update map Rừng nấm
+Update map Thung lũng tre
+Update map Đồi hoa cúc
+Update map Làng Aru
+HikariPool-1 housekeeper
+Abandoned connection cleanup thread
+Attach Listener
+Signal Dispatcher
+Finalizer
+Reference Handler
